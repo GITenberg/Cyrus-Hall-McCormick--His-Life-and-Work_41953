@@ -1,0 +1,29 @@
+_repo: Cyrus-Hall-McCormick--His-Life-and-Work_41953
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41953-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Casson, Herbert Newton
+    alias: Gasson, Herbert N. (Herbert Newton)
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '427'
+    url: http://www.gutenberg.org/2009/agents/427
+description: ''
+gutenberg_issued: '2013-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41953'
+  lccn: 09028139
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harvesting machinery'
+- !lcc 'HD'
+- !lcsh 'McCormick, Cyrus Hall, 1809-1884'
+title: 'Cyrus Hall McCormick: His Life and Work'
+url: http://www.gutenberg.org/ebooks/41953
